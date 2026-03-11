@@ -1,0 +1,8 @@
+/home/caillin/Documents/repos/imgui-freeze/build/CMakeFiles/ImGuiFreeze.dir
+/home/caillin/Documents/repos/imgui-freeze/build/CMakeFiles/edit_cache.dir
+/home/caillin/Documents/repos/imgui-freeze/build/CMakeFiles/rebuild_cache.dir
+/home/caillin/Documents/repos/imgui-freeze/build/extern/SDL/CMakeFiles/SDL3-shared.dir
+/home/caillin/Documents/repos/imgui-freeze/build/extern/SDL/CMakeFiles/SDL3_test.dir
+/home/caillin/Documents/repos/imgui-freeze/build/extern/SDL/CMakeFiles/SDL_uclibc.dir
+/home/caillin/Documents/repos/imgui-freeze/build/extern/SDL/CMakeFiles/edit_cache.dir
+/home/caillin/Documents/repos/imgui-freeze/build/extern/SDL/CMakeFiles/rebuild_cache.dir
